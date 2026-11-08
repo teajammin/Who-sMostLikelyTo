@@ -16,3 +16,11 @@ button {
   border-radius: 6px;
   background-color: azure;
 }
+
+.screen{
+  display: none;
+}
+
+.screen.active{
+  display: flex;
+}
